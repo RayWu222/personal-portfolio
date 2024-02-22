@@ -10,5 +10,11 @@ export default[
         imgUrl: '',
         stack: ['React', 'JavaScript', 'Node'],
         link: 'placeholder'
+    },
+    {
+        title: 'Mars Society App',
+        imgUrl: '',
+        stack: ['React Native', 'Node', 'CSS'],
+        link: 'placeholder'
     }
 ]

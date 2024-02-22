@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import Intro from './components/Intro';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
