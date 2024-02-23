@@ -7,14 +7,14 @@ export default[
     },
     {
         title: 'Climate Change Tracker',
-        imgUrl: '',
+        imgUrl: 'src/assets/ClimateChangeTrackerResult.png',
         stack: ['React', 'JavaScript', 'Node'],
-        link: 'placeholder'
+        link: 'https://showcase.codeday.org/project/ckqtyhugg91755010quw83qqtku'
     },
     {
         title: 'Mars Society App',
-        imgUrl: '',
+        imgUrl: 'src/assets/tmslogo_trans_1000.png',
         stack: ['React Native', 'Node', 'CSS'],
-        link: 'placeholder'
+        link: 'https://apkcombo.com/the-mars-society/com.MarsSociety.MarsSocietyApp/'
     }
 ]
