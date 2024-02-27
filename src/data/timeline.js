@@ -17,6 +17,6 @@ export default[
         year:'2019',
         title: 'Bachelor of Applied Science in Application Development',
         duration: '2 years',
-        details: "Joined North Seattle Application Development Program beacause of my interests in tech. Learned about web development, mobile development, cloud computing and data science."
+        details: "I enrolled in the North Seattle Application Development Program due to my passion for technology. Throughout the program, I gained expertise in various areas including full stack web development, Java programming with Object-Oriented Programming (OOP), React Native development, cloud computing, and data science."
     }
 ]

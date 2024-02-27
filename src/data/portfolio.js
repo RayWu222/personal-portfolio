@@ -1,7 +1,7 @@
 export default[
     {
         title: 'Developer Portfolio',
-        imgUrl:'/assets/home.png',
+        imgUrl:'/assets/new-house.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'placeholder'
     },
