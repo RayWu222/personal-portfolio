@@ -1,4 +1,4 @@
-# minimal-portfolio
+# Personal-portfolio
 
 This is a portfolio website showcasing my skills. Here the link: https://raywu-portfolio.netlify.app/
 
