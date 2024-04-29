@@ -2,7 +2,7 @@ export default[
 
     {
         year:'2021',
-        title:'Web Developer Inten',
+        title:'Web Developer Intern',
         duration: '4 months',
         details:"During my internship at CodeDay, I had the opportunity to work alongside two fellow interns and an experienced project manager from Splunk on a climate change tracker project. Our task involved integrating data from a third-party weather API and presenting it visually to users. Utilizing technologies such as React, Node.js, JavaScript, and incorporating some TypeScript, we successfully developed an intuitive platform to track climate changes and raise awareness about environmental issues."
 
